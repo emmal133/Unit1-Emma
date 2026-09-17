@@ -1,0 +1,12 @@
+#Integer
+x=5
+print(type(x))
+
+#Float are decimals
+y=3.14
+
+#Strings are for names and characters
+name="Sally"
+greeting=f"Hello{name}"
+print(greeting)
+#print(1+"1")

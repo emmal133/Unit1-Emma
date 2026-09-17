@@ -30,7 +30,7 @@ Logically the loop operates as follows
 ## Refactor and Challenges
 1. Refactor the previous loop to use a function called "Square"
 2. Create a new function that uses a loop to create a triangle
-3. Write a function that draws 60 squares, turning righjt 5 degrees after each square. 
+3. Write a function that draws 60 squares, turning right 5 degrees after each square. 
 
 The result should look as follows
 
