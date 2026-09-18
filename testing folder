@@ -1,0 +1,14 @@
+import turtle
+t=turtle
+def Square(size=100):
+    for i in range(4):
+        t.forward(size)
+        t.left(90)
+def Triangle(size=100):
+    for i in range(3):
+        t.forward(size)
+        t.left(120) 
+def draw_60_squares():
+    for i in range(60):
+        Square(100)  
+        t.right(5)  
