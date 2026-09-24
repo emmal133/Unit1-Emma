@@ -1,0 +1,14 @@
+#integer
+x=7
+#Float
+y=3.14
+#Boolean
+z=True
+#String
+name = "Steve"
+#lists
+students=["Natalie", "Martin", "Ben", "Stefania"]
+students.append("Karas")
+print(students[3])
+#input
+

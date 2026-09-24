@@ -70,8 +70,8 @@ t=turtle
 
 def equal(x):
     t.forward(x)
-    t.left(120)
+    t.left(90)
     t.forward(x)
-    t.left(120)
+    t.left(90)
     t.forward(x)
 equal(90)
